@@ -14,6 +14,14 @@ module.exports = {
       token: "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
       icon: "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
     },
+    terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3: {
+      protocol: "Astroport",
+      symbol: "ASTRO",
+      name: "Astroport Token",
+      token: "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
+      icon: "https://astroport.fi/astro_logo.png",
+      decimals: 6,
+    },
     terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al: {
       protocol: "STEAK Protocol",
       name: "STEAK Liquid Token",
